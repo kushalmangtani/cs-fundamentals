@@ -1,18 +1,18 @@
-a simple repo with materials to brush up my cs skills
+cs brush up 
 =====================================================
 
 Basic Data Structures
 ----------------
 
-[x] - Stacks
-[x] - Queues
-[x] - List
-[x] - Set
-[x] - Hashmap
-[x] - Trie
-[x] - Trees
-[x] - Graphs
-[] - Bloom Filter
+[x] - Stacks  
+[x] - Queues  
+[x] - List  
+[x] - Set  
+[x] - Hashmap  
+[x] - Trie  
+[x] - Trees  
+[x] - Graphs  
+[] - Bloom Filter  
 
 Algorithms
 ----------
@@ -20,7 +20,7 @@ Algorithms
 
 
 
-Interview questions - based on topcoder/glassdoor
+Logic questions
 -------------------------------------------------
 
 
